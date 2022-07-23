@@ -1,0 +1,2 @@
+# laungo
+generic launcher
